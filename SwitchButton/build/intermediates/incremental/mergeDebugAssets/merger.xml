@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/assets"/><source path="/Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/build-types/debug/assets"/></dataSet></merger>

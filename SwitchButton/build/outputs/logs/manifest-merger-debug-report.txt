@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+		INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+		ADDED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+		INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+		ADDED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
+		INJECTED from /Users/wangzhengxu/Documents/一村一警分离/AnJianSuCai/SwitchButton/AndroidManifest.xml
